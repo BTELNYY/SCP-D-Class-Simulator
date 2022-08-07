@@ -28,6 +28,7 @@ Imagine if Secret Lab had a fixed map and you could respawn based on spawn ticke
 - [X] Basic inventory system
 - [ ] GUI inventory system
 - [ ] AI
+- [ ] Better console (like source, you know what I mean.)
 ## Gameplay Features
 - [ ] SCP test chambers
 - [ ] Facility
